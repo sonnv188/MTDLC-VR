@@ -1,0 +1,16 @@
+Starting time = 2021-02-06 15:41:20, total reqs = 5, total vehicles = 6
+Greedy init solution
+RunTime-Objective-NbServedCustomers-NbUsedVehicles
+11.0-4290.0-2-1
+time limit = 7200000, nbIters = 10000, maxStable = 1000
+#Request = 0
+iter=====insertion=====removal=====time=====cost=====nbServedReqs=====nbVehicles
+0 -1 -1  1612600880798 4290.0 2 1
+1 0 6 1612600880817 5251.0 3 1
+1224 6 -1 1612600885082 9982.0 5 1
+10001 -1 -1 1612600899961 9982.0 5 1
+======Searching done======
+ALNS-RunTime-Objective-NbServedCustomers-NbUsedVehicles
+19.181-9982.0-5-1
+route[1] = 0(PARKING-0.0-25200 -> 4(DEPOT-0.0-32403 -> 7(CUSTOMER-168.0-34639 -> 6(CUSTOMER-537.0-38069 -> 9(CUSTOMER-996.0-42489 -> 4(DEPOT-996.0-49830 -> 8(CUSTOMER-159.0-52269 -> 10(CUSTOMER-852.0-57566 -> 0(PARKING-852.0-58798
+
