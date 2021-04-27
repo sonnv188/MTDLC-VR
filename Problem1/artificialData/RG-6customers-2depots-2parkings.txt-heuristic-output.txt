@@ -1,17 +1,3 @@
-Starting time = 2021-02-06 14:25:22, total reqs = 6, total vehicles = 2
-Greedy init solution
-RunTime-Objective-NbServedCustomers-NbUsedVehicles
-33.0-169.0-5-2
-time limit = 7200000, nbIters = 10000, maxStable = 1000
-#Request = 0
-iter=====insertion=====removal=====time=====cost=====nbServedReqs=====nbVehicles
-0 -1 -1  1612596322338 169.0 5 2
-58 3 4 1612596322679 152.0 5 2
-1314 6 -1 1612596326034 145.0 6 2
-10001 -1 -1 1612596337065 145.0 6 2
-======Searching done======
-ALNS-RunTime-Objective-NbServedCustomers-NbUsedVehicles
-14.77-145.0-6-2
-route[1] = 0(PARKING-0.0-0 -> 3(DEPOT-0.0-26 -> 5(CUSTOMER-15.0-45 -> 7(CUSTOMER-19.0-52 -> 3(DEPOT-19.0-75 -> 8(CUSTOMER-8.0-93 -> 4(CUSTOMER-15.0-118 -> 0(PARKING-15.0-128
-route[2] = 1(PARKING-0.0-0 -> 3(DEPOT-0.0-98 -> 9(CUSTOMER-20.0-121 -> 2(DEPOT-20.0-136 -> 6(CUSTOMER-8.0-147 -> 1(PARKING-8.0-151
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa989bc06c2f08fe8afabc69d1338fc4348ecb3ac6b4b38d37a3e4a394917fc3
+size 863
