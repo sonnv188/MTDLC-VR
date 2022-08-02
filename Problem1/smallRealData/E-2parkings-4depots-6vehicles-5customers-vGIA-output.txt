@@ -1,0 +1,10 @@
+Starting time = 2021-07-03 15:31:53, total reqs = 5, total vehicles = 6
+time limit = 7200000, nbIters = 10000, maxStable = 1000
+vGIA
+RunTime-Objective-NbServedCustomers-NbUsedVehicles
+0.018-5251.0-3-1
+======Searching done======
+ALNS-RunTime-Objective-NbServedCustomers-NbUsedVehicles
+0 -1 -1  1625301113326 5251.0 3 1
+route[1] = 0(PARKING-0.0-25200 -> 4(DEPOT-0.0-32403 -> 7(CUSTOMER-168.0-34639 -> 6(CUSTOMER-537.0-38069 -> 9(CUSTOMER-996.0-42489 -> 0(PARKING-996.0-43313
+

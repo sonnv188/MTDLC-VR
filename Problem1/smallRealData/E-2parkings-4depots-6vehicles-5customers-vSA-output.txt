@@ -1,0 +1,9 @@
+Starting time = 2021-07-03 15:35:59, total reqs = 5, total vehicles = 6
+vSA
+RunTime-Objective-NbServedCustomers-NbUsedVehicles
+0.022-5223.0-3-1
+======Searching done======
+ALNS-RunTime-Objective-NbServedCustomers-NbUsedVehicles
+0.022-5223.0-3-1
+route[4] = 1(PARKING-0.0-25200 -> 4(DEPOT-0.0-32456 -> 7(CUSTOMER-168.0-34692 -> 6(CUSTOMER-537.0-38122 -> 9(CUSTOMER-996.0-42542 -> 1(PARKING-996.0-43285
+
